@@ -99,3 +99,7 @@ As you may notice, two dictionaries - an English and a Danish - are supported, b
 
 - Can you expand the model such that it supports entry of Æ, Ø, and Å when the Danish dictionary is selected?
 - Can you add dictionaries for more languages?
+
+### Try it out :-)
+
+Here is a link to [install WebWordle v2.1.0](https://in.dbquity.com/install.html?origin=model.dbquity.com%2Fexamples&name=WebWordle&version=2.1.0) into the [`In on Dbquity`](https://in.dbquity.com) app.
